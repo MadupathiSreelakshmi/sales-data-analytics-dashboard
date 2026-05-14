@@ -53,9 +53,9 @@ Developed an interactive Power BI dashboard to analyze retail sales performance 
 ---
 
 ## 📂 Files Included
-- Power BI Dashboard (.pbix)
+- Power BI Dashboard
 - Dataset
-- Dashboard screenshots
+- Dashboard screenshot
 
 ---
 
