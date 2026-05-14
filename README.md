@@ -47,7 +47,8 @@ Developed an interactive Power BI dashboard to analyze retail sales performance 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard .png)
+1. Dashboard ![Screenshot](https://github.com/user-attachments/assets/a40da0f4-6238-4493-905c-5c06192d8f5d)
+
 
 ---
 
